@@ -5,7 +5,8 @@ Implementation for the paper (submitted to ICASSP 2022). <br>
 **[Multimodal Affective Feedback Synthesis for Text and Image Data][1]**<br>
 [Puneet Kumar](https://puneet-kr.github.io/), [Gaurav Bhatt](http://deeplearn-ai.com/), Omkar Ingle, Daksh Goyal and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
-### Note: The code files are currently private. They will be shared soon after the paper is accepted for publication.
+## Code Files
+The code files are currently private as the corresponding research paper in ICASSP 2022 is under review. They will be made publically available soon after the paper is published/accepted for publication.
 
 Dataset Access
 --------------
