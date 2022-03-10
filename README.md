@@ -10,11 +10,11 @@ The code files are currently private as the corresponding research paper in IEEE
 
 Dataset Details & Access
 -------------------------
-The process to crawl the ‘IIT Roorkee Multimodal Feedback (IIT-R MMFeed) dataset' has been depicted in the following diagram:
+The [`IIT Roorkee Multimodal Feedback (IIT-R MMFeed) Dataset`][2] dataset' has been compiled by Puneet Kumar, Omkar Ingle, Daksh Goyal and Gaurav Bhatt at Machine Intelligence Lab, IIT Roorkee under the supervision of Prof. Balasubramanian Raman. It consists of 9,479 samples containing news text, images, user comments, and the number of likes for each comment. The process to crawl the data from Twitter feeds is depicted in the following diagram:
 <!--![IIT-R MMFeed dataset construction](data_construction.jpg)-->
 <img src="data_construction.jpg" width="90%" align="middle">
 
-Access to the IIT-R MMFeed dataset can be obtained by through [`Access Form - IIT-R MMFeed Dataset.pdf`][2]. The dataset is compiled by Puneet Kumar, Omkar Ingle, Daksh Goyal and Gaurav Bhatt at Machine Intelligence Lab, IIT Roorkee under the supervision of Prof. Balasubramanian Raman. It consists of 9,479 samples containing news text, images, user comments, and the number of likes for each comment.
+Access to the IIT-R MMFeed dataset can be obtained by through [`Access Form - IIT-R MMFeed Dataset.pdf`][2].   
 
 [1]: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
 [2]:https://github.com/MIntelligence-Group/MMFeed/blob/main/Access%20Form%20-%20IIT-R%20MMFeed%20Dataset.pdf
