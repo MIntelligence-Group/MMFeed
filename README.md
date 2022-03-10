@@ -16,5 +16,5 @@ The [`IIT Roorkee Multimodal Feedback (IIT-R MMFeed) Dataset`][2] dataset' has b
 
 Access to the IIT-R MMFeed dataset can be obtained by through [`Access Form - IIT-R MMFeed Dataset.pdf`][2].   
 
-[1]: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
+[1]: https://dl.acm.org/journal/tomm
 [2]:https://github.com/MIntelligence-Group/MMFeed/blob/main/Access%20Form%20-%20IIT-R%20MMFeed%20Dataset.pdf
