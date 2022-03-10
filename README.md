@@ -6,7 +6,7 @@ Implementation for the paper (submitted to Elsevier Neural Networks Journal). <b
 [Puneet Kumar](https://puneet-kr.github.io/), [Gaurav Bhatt](http://deeplearn-ai.com/), Omkar Ingle, Daksh Goyal and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
 ## Code Files
-The code files are currently private as the corresponding research paper in IEEE SPL is under review. They will be made publically available soon after the paper is published/accepted for publication.
+The code files are currently private as the corresponding research paper in ACM ToMM Journal is under review. They will be made publically available soon after the paper is published/accepted for publication.
 
 Dataset Details & Access
 -------------------------
