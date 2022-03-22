@@ -1,8 +1,8 @@
-Multimodal Affective Feedback Synthesis for Text and Image Data
+Affective Feedback Synthesis Towards Multimodal Text and Image Data
 ================================================
 
-Implementation for the paper (submitted to Elsevier Neural Networks Journal). <br>
-**[Multimodal Affective Feedback Synthesis for Text and Image Data][1]**<br>
+Implementation for the paper (submitted to ACM Transactions on Multimedia Computing, Communications, and Applications). <br>
+**[Affective Feedback Synthesis Towards Multimodal Text and Image Data][1]**<br>
 [Puneet Kumar](https://puneet-kr.github.io/), [Gaurav Bhatt](http://deeplearn-ai.com/), Omkar Ingle, Daksh Goyal and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
 ## Code Files
