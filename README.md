@@ -8,8 +8,6 @@ Implementation for the paper (submitted to ACM Transactions on Multimedia Comput
 ## Code Files
 The files baseline1.ipynb, baseline2.ipynb and baseline3.ipynb contain the implmentation for the baseline models whereas the final model's implementation can be found in ```MMFeed.ipynb```.
 
-The code files are currently private as the corresponding research paper in ACM ToMM Journal is under review. They will be made publically available soon after the paper is published/accepted for publication.
-
 Dataset Details & Access
 -------------------------
 The [`IIT Roorkee Multimodal Feedback (IIT-R MMFeed) Dataset`][2] dataset' has been compiled by Puneet Kumar, Omkar Ingle, Daksh Goyal and Gaurav Bhatt at Machine Intelligence Lab, IIT Roorkee under the supervision of Prof. Balasubramanian Raman. It consists of 9,479 samples containing news text, images, user comments, and the number of likes for each comment. The process to crawl the data from Twitter feeds is depicted in the following diagram:
