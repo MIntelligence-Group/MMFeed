@@ -6,6 +6,8 @@ Implementation for the paper (submitted to ACM Transactions on Multimedia Comput
 [Puneet Kumar](https://puneet-kr.github.io/), [Gaurav Bhatt](http://deeplearn-ai.com/), Omkar Ingle, Daksh Goyal and [Balasubramanian Raman](http://faculty.iitr.ac.in/~balarfma/)  
 
 ## Code Files
+The files baseline1.ipynb, baseline2.ipynb and baseline3.ipynb contain the implmentation for the baseline models whereas the final model's implementation can be found in ```MMFeed.ipynb```.
+
 The code files are currently private as the corresponding research paper in ACM ToMM Journal is under review. They will be made publically available soon after the paper is published/accepted for publication.
 
 Dataset Details & Access
